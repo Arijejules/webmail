@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="question_icon" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;stroke:#707070}.cls-2{font-size:8px;font-family:HelveticaNeue,Helvetica Neue}.cls-3{stroke:none}.cls-4{fill:none}
+        </style>
+    </defs>
+    <g id="Ellipse_745" class="cls-1" data-name="Ellipse 745">
+        <ellipse cx="7.813" cy="7.943" class="cls-3" rx="7.813" ry="7.943"/>
+        <ellipse cx="7.813" cy="7.943" class="cls-4" rx="7.313" ry="7.443"/>
+    </g>
+    <text id="_" class="cls-2" data-name="?" transform="translate(5.208 10.604)">
+        <tspan x="0" y="0">?</tspan>
+    </text>
+</svg>

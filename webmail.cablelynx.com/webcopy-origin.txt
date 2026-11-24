@@ -1,0 +1,200 @@
+Uri: https://webmail.cablelynx.com/css/css.css?mtime=1752785250
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\css\css.css
+Content Type: text/css
+
+Uri: https://webmail.cablelynx.com/css/magicmail.css?mtime=1752785253
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\css\magicmail.css
+Content Type: text/css
+
+Uri: https://webmail.cablelynx.com/css/magicmail.forgot_password.css?mtime=1752785250
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\css\magicmail.forgot_password.css
+Content Type: text/css
+
+Uri: https://webmail.cablelynx.com/css/magicmail.login.css?mtime=1752785250
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\css\magicmail.login.css
+Content Type: text/css
+
+Uri: https://webmail.cablelynx.com/css/modal.css
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\css\modal.css
+Content Type: text/css
+
+Uri: https://webmail.cablelynx.com/css/pagination.css
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\css\pagination.css
+Content Type: text/css
+
+Uri: https://webmail.cablelynx.com/css/wizard.css?mtime=1752785253
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\css\wizard.css
+Content Type: text/css
+
+Uri: https://webmail.cablelynx.com/favicon.ico
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://webmail.cablelynx.com/html_files/user.css?mtime=1641591162
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\html_files\user.css
+Content Type: text/css
+
+Uri: https://webmail.cablelynx.com/isp_images/header-logo.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\isp_images\header-logo.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/isp_images/header-logo2.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\isp_images\header-logo2.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/js/global_javascript.js?mtime=1756228767
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\js\global_javascript.js
+Content Type: application/javascript
+
+Uri: https://webmail.cablelynx.com/js/htmlcanvas.js?mtime=1752785250
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\js\htmlcanvas.js
+Content Type: application/javascript
+
+Uri: https://webmail.cablelynx.com/js/jquery.js?mtime=1752788957
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://webmail.cablelynx.com/js/login.js?mtime=1752785250
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\js\login.js
+Content Type: application/javascript
+
+Uri: https://webmail.cablelynx.com/login.php
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\login.php.html
+Content Type: text/html
+
+Uri: https://webmail.cablelynx.com/pics/1px_grey_top.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\1px_grey_top.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/pics/apple-touch-icon-114x114-precomposed.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\apple-touch-icon-114x114-precomposed.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/pics/apple-touch-icon-144x144-precomposed.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\apple-touch-icon-144x144-precomposed.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/pics/apple-touch-icon-72x72-precomposed.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\apple-touch-icon-72x72-precomposed.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/pics/apple-touch-icon-precomposed.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\apple-touch-icon-precomposed.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/pics/background-mailbox.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\background-mailbox.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/pics/background-mailboxheader.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\background-mailboxheader.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/pics/background-sub.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\background-sub.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/pics/background2.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\background2.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/pics/blue_curve_body.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\blue_curve_body.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/blue_curve_top.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\blue_curve_top.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/clearleft_menu_1px.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\clearleft_menu_1px.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/pics/helpicon.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\helpicon.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/pics/home_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\home_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/icon-success.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\icon-success.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/pics/icon-warning.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\icon-warning.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/pics/key_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\key_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/logout_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\logout_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/mailing_list_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\mailing_list_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/manage_domains_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\manage_domains_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/manage_mailboxes_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\manage_mailboxes_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/my_email_options_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\my_email_options_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/pagebackground.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\pagebackground.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/pics/powered_by.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\powered_by.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/pics/question_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\question_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/security_options_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\security_options_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/spamdisabled.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\spamdisabled.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/pics/spamenabled.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\spamenabled.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/pics/spamunavailable.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\spamunavailable.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/pics/spam_management_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\spam_management_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/pics/subheader.gif
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\subheader.gif
+Content Type: image/gif
+
+Uri: https://webmail.cablelynx.com/pics/sub_menu_left.png
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\sub_menu_left.png
+Content Type: image/png
+
+Uri: https://webmail.cablelynx.com/pics/webmail_icon.svg
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\pics\webmail_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://webmail.cablelynx.com/recover-password.php
+File Name: C:\Users\admin\Downloads\Magic\webmail.cablelynx.com\recover-password.php.html
+Content Type: text/html
+
